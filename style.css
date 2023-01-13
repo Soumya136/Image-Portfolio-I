@@ -17,7 +17,7 @@ body {
     justify-content: space-evenly;
     align-items: center;
     gap: 20px;
-    background: linear-gradient(to right, #480048, #c04848);
+    background: linear-gradient(to right, #5f2c82, #49a09d);
 }
 
 .left-text {
